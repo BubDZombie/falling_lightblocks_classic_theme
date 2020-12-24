@@ -1,0 +1,37 @@
+{
+  "name": "Level 1",
+  "version": 1,
+  "screen": {
+    "emphasizecolor": "d82800",
+      "focussedcolor": "63adff",
+      "wallcolor": "00000000",
+      "bgpic": "bg"
+  },
+  "blocks": {
+    "normal_pics": {
+      "grid": "grid",
+      "ghost": "ghost",
+      "garbage": "garbage",
+      "i": "blocki",
+      "l": "blockl",
+      "t": "blockt",
+      "j": "blockj",
+      "z": "blockz",
+      "s": "blocks",
+      "o": "blocko"
+    }
+  },
+  "music":  {
+    "slow": "sugarplum.mp3"
+  },
+  "sounds": {
+    "rotate": "",
+    "horizontalmove": "",
+    "drop": "",
+    "normalclear": "",
+    "achievement": "",
+    "garbage": "",
+    "specialclear": "",
+    "gameover": ""
+  }
+}

@@ -1,0 +1,82 @@
+theme.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grid
+  rotate: false
+  xy: 1500, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 1574, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+garbage
+  rotate: false
+  xy: 1648, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blocki
+  rotate: false
+  xy: 1722, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blockl
+  rotate: false
+  xy: 1796, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blockt
+  rotate: false
+  xy: 1500, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blockj
+  rotate: false
+  xy: 1574, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blockz
+  rotate: false
+  xy: 1648, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blocks
+  rotate: false
+  xy: 1722, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+blocko
+  rotate: false
+  xy: 1796, 74
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 1
+  size: 1360, 1000
+  orig: 1360, 1000
+  offset: 0, 0
+  index: -1

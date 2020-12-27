@@ -7,3 +7,5 @@ https://github.com/BubDZombie/falling_lightblocks_classic_theme/raw/main/themes/
 ![Fast](https://github.com/BubDZombie/falling_lightblocks_classic_theme/raw/main/themes/fast_preview.png)
 
 https://github.com/BubDZombie/falling_lightblocks_classic_theme/raw/main/themes/fast.zip
+
+![Screenshot](https://github.com/BubDZombie/falling_lightblocks_classic_theme/raw/main/themes/christmas_preview_bg.png)
